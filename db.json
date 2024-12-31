@@ -1,0 +1,61 @@
+{
+  "uploadVideos": [
+    {
+      "id": "aaa8",
+      "caption": "Game Of thrones",
+      "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.k-l4W47Jot9Q-KcK-XVVGwHaEo&pid=Api&P=0&h=180",
+      "youtubeLink": "https://www.youtube.com/embed/KPLWWIOCOOQ"
+    },
+    {
+      "id": "661c",
+      "caption": "Lost",
+      "imgUrl": "http://images1.fanpop.com/images/photos/2500000/Lost-Cast-Season-One-lost-2543754-1369-876.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/KTu8iDynwNc"
+    },
+    {
+      "id": "2e66",
+      "caption": "Money heist",
+      "imgUrl": "https://www.mymahanagar.com/wp-content/uploads/2021/05/money.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/_InqQJRqGW4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1fb8",
+      "categoryName": "trailers",
+      "categorydetails": []
+    }
+  ],
+  "history": [
+    {
+      "id": "5ce5",
+      "caption": "12 monkeys",
+      "youtubeLink": "https://www.youtube.com/embed/4b4agMSCbII",
+      "timeStamp": "12/28/2024, 3:13:38 PM GMT+5:30"
+    },
+    {
+      "id": "8370",
+      "caption": "Money heist",
+      "youtubeLink": "https://www.youtube.com/embed/_InqQJRqGW4",
+      "timeStamp": "12/28/2024, 3:14:08 PM GMT+5:30"
+    },
+    {
+      "id": "bcb6",
+      "caption": "Money heist",
+      "youtubeLink": "https://www.youtube.com/embed/_InqQJRqGW4",
+      "timeStamp": "12/28/2024, 3:15:43 PM GMT+5:30"
+    },
+    {
+      "id": "3f38",
+      "caption": "Money Heist",
+      "youtubeLink": "https://www.youtube.com/embed/_InqQJRqGW4",
+      "timeStamp": "12/28/2024, 7:33:57 PM GMT+5:30"
+    },
+    {
+      "id": "3342",
+      "caption": "Lost",
+      "youtubeLink": "https://www.youtube.com/embed/KTu8iDynwNc",
+      "timeStamp": "12/30/2024, 12:44:10 PM GMT+5:30"
+    }
+  ]
+}
